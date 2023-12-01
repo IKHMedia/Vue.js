@@ -29,13 +29,13 @@ var app = new Vue({
       title: "True Oldies AM 1710 & 97.7 FM",
       artist: "WCFW-LP - IKHMedia",
       url: "https://listen.ikhmedia.com/HD3",
-      image: "https://source.unsplash.com/Esax9RaEl2I/400x400" },
+      image: "Stunt.png" },
 
     {
       title: "True Oldies AM 1710 & 97.7 FM",
       artist: "WCFW-LP - IKHMedia",
       url: "https://listen.ikhmedia.com/HD4",
-      image: "https://source.unsplash.com/j0g8taxHZa0/400x400" }],
+      image: "Stunt.png" }],
 
 
     audioFile: "" },
