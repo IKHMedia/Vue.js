@@ -20,20 +20,20 @@ var app = new Vue({
       image: "TrueOldies.png" },
 
     {
-      title: "True Oldies AM 1710 & 97.7 FM",
-      artist: "WCFW-LP - IKHMedia",
+      title: "Pirate Radio USA",
+      artist: "KQLZ - IKHMedia",
       url: "https://listen.ikhmedia.com/HD2",
       image: "KQLZ.png" },
 
     {
-      title: "True Oldies AM 1710 & 97.7 FM",
-      artist: "WCFW-LP - IKHMedia",
+      title: "Tomah's Christmas Station",
+      artist: "WLKE - IKHMedia",
       url: "https://listen.ikhmedia.com/HD3",
       image: "Stunt.png" },
 
     {
-      title: "True Oldies AM 1710 & 97.7 FM",
-      artist: "WCFW-LP - IKHMedia",
+      title: "Stunting - December 30th",
+      artist: "IKHMedia",
       url: "https://listen.ikhmedia.com/HD4",
       image: "Stunt.png" }],
 
